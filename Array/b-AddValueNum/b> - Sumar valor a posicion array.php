@@ -1,6 +1,6 @@
 <?php
 /**
- * Donat un array suma un valor a una posició clau
+ * Donat un array suma un valor a una posiciÃ³ clau
  *
  * @param array $arr
  * @param string | int $key
