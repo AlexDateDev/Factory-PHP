@@ -1,3 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="F:\GitHUB\Factory-PHP\Factory-PHP.clpprj">
-	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS></settings></project>
+	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="F:\GitHUB\Factory-PHP\Array\InsertValueToPosition.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByKeys.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByKeyValues.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByValues.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\Merge.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\PopFirst.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\PopLast.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveDuplicates.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveKey.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemovePosition.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveValueFirst.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveAllValue.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\SortValues.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\SortValuesNatural.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\SwapKeyValue.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+	</errors>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="F:\GitHUB\Factory-PHP\Array\SwapKeyValue.php" crc="1529766734"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\SortValuesNatural.php" crc="1529766734"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\SortValues.php" crc="1529766733"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveValueFirst.php" crc="1529766732"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemovePosition.php" crc="1529766732"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveKey.php" crc="1529766731"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveDuplicates.php" crc="1529766731"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\RemoveAllValue.php" crc="1529766733"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\PopLast.php" crc="1529766475"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\PopFirst.php" crc="1529766730"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\Merge.php" crc="1529766730"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByValues.php" crc="1529766729"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByKeyValues.php" crc="1529766729"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByKeys.php" crc="1529766728"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\InsertValueToPosition.php" crc="1529766727"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\InsertFirst.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IndexOfValue.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\IndexOfKey.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\ImplodedToString.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\Implode.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetValuesAsString - Devuevle todos los valores como un string.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetValueByKey - Devuelve un valor por su array.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetValueByIndex - Devuelve un valor por si posición.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetSubArray - Devuelve un subarray.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetKeysAsString - Devuelve las keys como un string.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetKeyByValue - Devuelve una key por su valor.php" crc="1529765034"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetArrayValues - Devuelve array de los valores.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\GetArrayKeys - Deveuve array de las keys.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\ExistsValue - Existe un valor en un array.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\ExistsKey - Existe una key en un array.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\DiffByKeyValues - Diferencias entre valores array.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\DiffByKeys -  Deferencias entre key arrays.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\ConcatValues - Concatena una valor en una posicion.php" crc="1529616436"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\CompactArray - Elimina valores vacios.php" crc="1529616343"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\CombineKeyValue -  Combina valor array 1 como clave del segindo.php" crc="1529615302"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\CloneArray.php" crc="1529615233"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\ArrayDepth - Devuelve el numero de niveles - recursivo.php" crc="1529766287"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\AppendValue - Añadir valor al final del array.php" crc="1529615194"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\AppendKeyValue - Añadir clave-valor al final de un array.php" crc="1529615160"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\AddValueNum - Sumar valor a posicion array.php" crc="1529616839"/>
+		<file name="F:\GitHUB\Factory-PHP\Apache\Detectar variables creadas en apache.php" crc="1529614475"/>
+	</filescache>
+</project>

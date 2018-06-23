@@ -1,0 +1,22 @@
+<codestructure version="5.14">
+<phptree>
+<treenode node="AddValueNum;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AddValueNum - Sumar valor a posicion array.php;f7;11;1;19;;;;vpos;;v;;r&#10;Definition&#10;    AddValueNum( &amp;$arr, $key, $nNum)&#10;&#10;Description&#10;     Donat un array suma un valor a una posició clau&#10;&#10;Parameters:&#10;    array $arr&#10;    string - | int $key&#10;    int $nNum;;d0,12;;b0,5;;marray $arr;;pstring;;pint $nNum;;p">
+</treenode>
+<treenode node="AppendKeyValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AppendKeyValue - Añadir clave-valor al final de un array.php;f7;11;1;13;;;;vpos;;v;;r&#10;Definition&#10;    AppendKeyValue( &amp;$arr, $sValue, $sKey )&#10;&#10;Description&#10;     Añade una clave/valor al final del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sValue&#10;    string $sKey;;d55,11;;b0,5;;marray $arr;;pstring $sValue;;pstring $sKey;;p">
+</treenode>
+<treenode node="AppendValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AppendValue - Añadir valor al final del array.php;f7;11;1;13;;;;vpos;;v;;r&#10;Definition&#10;    AppendValue( &amp;$arr, $sValue )&#10;&#10;Description&#10;     Añade un valor al final del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sValue;;d45,11;;b0,5;;marray $arr;;pstring $sValue;;p">
+</treenode>
+<treenode node="CloneArray;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\CloneArray.php;f7;8;1;14;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;CloneArray( $arr )&#10;&#10;Description&#10;     Devuelve una array identico&#10;&#10;Parameters:&#10;    array $arr;;d35,8;;b0,5;;marray $arr;;p">
+</treenode>
+<treenode node="CombineKeyValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\CombineKeyValue -  Combina valor array 1 como clave del segindo.php;f7;11;1;13;;;;vpos;;varray;;r&#10;Definition&#10;    CombineKeyValue( $arrKeys, $arrValues )&#10;&#10;Description&#10;     Combina el valor del primer array como clave con el valor del segundo array como valor&#10;&#10;Parameters:&#10;    array $arrKeys&#10;    array $arrValues;;d55,11;;b0,5;;marray $arrKeys;;parray $arrValues;;p">
+</treenode>
+<treenode node="CompactArray;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\CompactArray - Elimina valores vacios.php;f7;10;1;19;;F:\GitHUB\Factory-PHP\Array\CompactArray - Elimina valores vacios;f7;10;1;19;;;;vpos;;varray;;r&#10;Definition&#10;    CompactArray( $arr )&#10;&#10;Description&#10;     Devuelve un array sin valorese vacios (null, 0, &apos;&apos;)&#10;&#10;Parameters:&#10;    array $arr;;d0,11;;b0,5;;marray $arr;;p">
+</treenode>
+<treenode node="ConcatValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\ConcatValues - Concatena una valor en una posicion.php;f7;11;1;19;;;;vpos;;v;;r&#10;Definition&#10;    ConcatValue( &amp;$arr, $key, $sStr)&#10;&#10;Description&#10;     Donat un valor, concatena un valor a una posició clau&#10;&#10;Parameters:&#10;    array $arr&#10;    string - | int $key&#10;    string $sStr;;d0,12;;b0,5;;marray $arr;;pstring;;pstring $sStr;;p">
+</treenode>
+<treenode node="GetKeyByValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\GetKeyByValue - Devuelve una key por su valor.php;f7;10;1;21;;;;vpos;;v;;r;;d0,11;;b0,5;;marr;;psValue;;psDefault;;p">
+</treenode>
+<treenode node="RemoveAllValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\RemoveAllValues.php;f7;11;1;19;;;;vpos;;varray;;r&#10;Definition&#10;    RemoveAllValue( $arr, $sStr )&#10;&#10;Description&#10;     Elimina todos los valores del array de una instancia&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sStr&#10;&#10;Return:&#10;   si los elementos indicados;;d45,11;;b0,5;;marray $arr;;pstring $sStr;;p">
+</treenode>
+</phptree>
+</codestructure>
