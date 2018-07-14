@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="F:\GitHUB\Factory-PHP\Factory-PHP.clpprj">
-	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Module.php;F:\GitHUB\Factory-PHP\Date\NewFile.txt;F:\GitHUB\Factory-PHP\Date\NewFile1.txt;F:\GitHUB\Factory-PHP\Date\NewFolder;"/><added value=""/><lastopfiles>
-		<file name="F:\GitHUB\Factory-PHP\Date\GetDateSeparator.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\GetDay.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\GetDiffDates.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\GetDiffDays.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\GetMonth.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\GetMonthName.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\GetYear.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\NewFile.txt"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\IsLeap.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ObtenerNombreDiaSemana.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\NewFile1.txt"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\PrimerDiaMesActual.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\RestarDiasNaturales.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\SetDefaultFormat.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\SetTimeZone.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\Standarize.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\SumarDiasHabiles.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\SumarDiasNaturales.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToDateTimeBegin.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToDateTimeEnd.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\Today.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToMySQL.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToStd.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToText.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToTextCultureInfo.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToTimeStamp.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\ToUTC.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Date\UltimiDiaMesActual.php"/>
+	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Module.php;F:\GitHUB\Factory-PHP\DateTime\ToTimeStamp.php;F:\GitHUB\Factory-PHP\Date\NewFile.txt;F:\GitHUB\Factory-PHP\Date\NewFile1.txt;F:\GitHUB\Factory-PHP\Date\NewFolder;F:\GitHUB\Factory-PHP\Image;F:\GitHUB\Factory-PHP\Image\Cargar imagen aleatoria.php;F:\GitHUB\Factory-PHP\Mail\PhtMailer\NewFolder;"/><added value=""/><lastopfiles>
 	</lastopfiles>
 	<errors version="5.11">
 		<errfile name="F:\GitHUB\Factory-PHP\Char\CharToBin.php">
@@ -40,6 +12,115 @@
 	<todoblock>
 	</todoblock>
 	<filescache>
+		<file name="F:\GitHUB\Factory-PHP\Mime\MimeTypes.php" crc="1531593563"/>
+		<file name="F:\GitHUB\Factory-PHP\Javascript\Reload.php" crc="1531593197"/>
+		<file name="F:\GitHUB\Factory-PHP\Javascript\Redirect.php" crc="1531593197"/>
+		<file name="F:\GitHUB\Factory-PHP\Javascript\Goback.php" crc="1531593197"/>
+		<file name="F:\GitHUB\Factory-PHP\Javascript\CloseWindow.php" crc="1531593197"/>
+		<file name="F:\GitHUB\Factory-PHP\Javascript\alertBack.php" crc="1531593197"/>
+		<file name="F:\GitHUB\Factory-PHP\Javascript\alert.php" crc="1531593127"/>
+		<file name="F:\GitHUB\Factory-PHP\GUID\IsGUID.php" crc="1531592965"/>
+		<file name="F:\GitHUB\Factory-PHP\GUID\CreateGUID.php" crc="1531592874"/>
+		<file name="F:\GitHUB\Factory-PHP\Get\ToString.php" crc="1531592809"/>
+		<file name="F:\GitHUB\Factory-PHP\Get\ToInt.php" crc="1531592809"/>
+		<file name="F:\GitHUB\Factory-PHP\Get\ToFloat.php" crc="1531592809"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\SetOwner.php" crc="1531592090"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\SetGroup.php" crc="1531592090"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\GetPermissions.php" crc="1531591628"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\GetPermisionsAsString.php" crc="1531591628"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\GetOwnerID.php" crc="1531591587"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\GetGroupName.php" crc="1531591555"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\GetGroupID.php" crc="1531591555"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\GetDateModified.php" crc="1531591507"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\GetDateLastAccess.php" crc="1531591453"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\ChmodRecursivo.php" crc="1531591100"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Permisos\Chmod.php" crc="1531591041"/>
+		<file name="F:\GitHUB\Factory-PHP\File\INI\GetSectionINI.php" crc="1531591767"/>
+		<file name="F:\GitHUB\Factory-PHP\File\INI\GetContentsINI.php" crc="1531591767"/>
+		<file name="F:\GitHUB\Factory-PHP\File\CSV\FileParseCSV.php" crc="1531591158"/>
+		<file name="F:\GitHUB\Factory-PHP\File\WriteLineCSV.php" crc="1531591158"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Write.php" crc="1531592138"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Unlock.php" crc="1531592090"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Truncate.php" crc="1531592090"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Touch.php" crc="1531592090"/>
+		<file name="F:\GitHUB\Factory-PHP\File\SeekEnd.php" crc="1531592090"/>
+		<file name="F:\GitHUB\Factory-PHP\File\SeekBegin.php" crc="1531592090"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Seek.php" crc="1531592009"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Scanf.php" crc="1531592009"/>
+		<file name="F:\GitHUB\Factory-PHP\File\SanitizePath.php" crc="1531592009"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Rename.php" crc="1531592009"/>
+		<file name="F:\GitHUB\Factory-PHP\File\RemoveFileExtension.php" crc="1531591951"/>
+		<file name="F:\GitHUB\Factory-PHP\File\ReadLine.php" crc="1531591936"/>
+		<file name="F:\GitHUB\Factory-PHP\File\ReadChunkFile.php" crc="1531591936"/>
+		<file name="F:\GitHUB\Factory-PHP\File\ReadChar.php" crc="1531591899"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Open.php" crc="1531591888"/>
+		<file name="F:\GitHUB\Factory-PHP\File\NormalizeExtension.php" crc="1531591874"/>
+		<file name="F:\GitHUB\Factory-PHP\File\MakeNotWritable.php" crc="1531591874"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Lock.php" crc="1531591874"/>
+		<file name="F:\GitHUB\Factory-PHP\File\IsFileWritable.php" crc="1531591836"/>
+		<file name="F:\GitHUB\Factory-PHP\File\IsFileReadable.php" crc="1531591836"/>
+		<file name="F:\GitHUB\Factory-PHP\File\IsFileLink.php" crc="1531591836"/>
+		<file name="F:\GitHUB\Factory-PHP\File\IsFileImage.php" crc="1531591797"/>
+		<file name="F:\GitHUB\Factory-PHP\File\IsFileExecutable.php" crc="1531591797"/>
+		<file name="F:\GitHUB\Factory-PHP\File\IsFile.php" crc="1531591797"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetTempName.php" crc="1531591675"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetTargetLink.php" crc="1531591675"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetSizeFormat.php" crc="1531591675"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetSize.php" crc="1531591675"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetSeekPosition.php" crc="1531591628"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetNewTempFile.php" crc="1531591574"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetExtension.php" crc="1531591528"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetDirName.php" crc="1531591507"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetContent.php" crc="1531591436"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetBaseName.php" crc="1531591436"/>
+		<file name="F:\GitHUB\Factory-PHP\File\GetAbsolutePath.php" crc="1531591436"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Flush.php" crc="1531591436"/>
+		<file name="F:\GitHUB\Factory-PHP\File\FileExcel.class.php" crc="1531591252"/>
+		<file name="F:\GitHUB\Factory-PHP\File\File Upload.php" crc="1531592121"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Exists.php" crc="1531591297"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Eof.php" crc="1531591232"/>
+		<file name="F:\GitHUB\Factory-PHP\File\EliminarExtension.php" crc="1531591232"/>
+		<file name="F:\GitHUB\Factory-PHP\File\DeletWIthMask.php" crc="1531591232"/>
+		<file name="F:\GitHUB\Factory-PHP\File\DeleteRecursive.php" crc="1531591232"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Delete.php" crc="1531591190"/>
+		<file name="F:\GitHUB\Factory-PHP\File\CreateLink.php" crc="1531591111"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Copy.php" crc="1531591100"/>
+		<file name="F:\GitHUB\Factory-PHP\File\Close.php" crc="1531591086"/>
+		<file name="F:\GitHUB\Factory-PHP\EMail\PhtMailer\PhoMailer.class.php" crc="1531593407"/>
+		<file name="F:\GitHUB\Factory-PHP\EMail\PhtMailer\Instanciar PhpMailer + Plantilla.php" crc="1531593642"/>
+		<file name="F:\GitHUB\Factory-PHP\EMail\PhtMailer\Envio con Google.php" crc="1531593655"/>
+		<file name="F:\GitHUB\Factory-PHP\EMail\PhtMailer\Enviar con Atexsa.php" crc="1531593668"/>
+		<file name="F:\GitHUB\Factory-PHP\EMail\Mail.class.php" crc="1531593312"/>
+		<file name="F:\GitHUB\Factory-PHP\EMail\Enviar un email simple con headers.php" crc="1531593312"/>
+		<file name="F:\GitHUB\Factory-PHP\EMail\Enviar un email con archivo anexado.php" crc="1531593277"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\Normalize.php" crc="1531590880"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\ListAllFiles.php" crc="1531590880"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\GetSize.php" crc="1531590879"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\GetPermissions.php" crc="1531590879"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\GetMimeExtension.php" crc="1531590879"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\GetFileInfo.php" crc="1531590879"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\GetDirSeparator.php" crc="1531590879"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\GetDirFileInfo.php" crc="1531590879"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\Eliminar dir y contenido.php" crc="1531590791"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\Delete.php" crc="1531590769"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\CreateTempName.php" crc="1531590769"/>
+		<file name="F:\GitHUB\Factory-PHP\Dir\Copy.php" crc="1531590769"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\StackTraceErrorHandler.php" crc="1531590769"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\SetLog.php" crc="1531590571"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\pr.php" crc="1531590562"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\ErrorLog.class.php" crc="1531590529"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\display_stack_trace.php" crc="1531590512"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\debug.php.php" crc="1531590276"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\alert.php" crc="1531590512"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTimeStamp\ToDateTime.php" crc="1531590144"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTimeStamp\ToDate.php" crc="1531590144"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTime\ToStd.php" crc="1531590025"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTime\ToMySQL.php" crc="1531590024"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTime\Today.php" crc="1531589953"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTime\SumarFechas.php" crc="1531589866"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTime\GetTimeOnly.php" crc="1531589866"/>
+		<file name="F:\GitHUB\Factory-PHP\DateTime\GetDateOnly.php" crc="1531589802"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\UtcToStd.php" crc="1531590218"/>
 		<file name="F:\GitHUB\Factory-PHP\Date\UltimiDiaMesActual.php" crc="1531580432"/>
 		<file name="F:\GitHUB\Factory-PHP\Date\ToUTC.php" crc="1531580432"/>
 		<file name="F:\GitHUB\Factory-PHP\Date\ToTimeStamp.php" crc="1531580432"/>
