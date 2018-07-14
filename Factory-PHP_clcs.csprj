@@ -1,10 +1,82 @@
 <codestructure version="5.14">
 <phptree>
+<treenode node="BROWSER;PHP:Class Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f4;53;5;422;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f4;53;5;422;;;;vpos;;v;;r&#10;Definition&#10;    class BROWSER&#10;&#10;Description&#10;     Detecta el navegador utilitzat per l&apos;usuari;;d4,54;;b0,0;;m">
+<treenode node="AMAYA;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;75;19;75;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;75;19;75;;;;vpos;;v;;r&apos;amaya&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="AOL;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;78;17;78;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;78;17;78;;;;vpos;;v;;r&apos;AOL&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FIREBIRD;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;71;22;71;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;71;22;71;;;;vpos;;v;;r&apos;firebird&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FIREFOX;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;72;21;72;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;72;21;72;;;;vpos;;v;;r&apos;Firefox&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="GALEON;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;66;20;66;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;66;20;66;;;;vpos;;v;;r&apos;galeon&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ICAB;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;68;18;68;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;68;18;68;;;;vpos;;v;;r&apos;icab&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="IE;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;63;16;63;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;63;16;63;;;;vpos;;v;;r&apos;msie&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="IEPOCKET;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;65;22;65;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;65;22;65;;;;vpos;;v;;r&apos;mspie&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="KONQUEROR;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;67;23;67;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;67;23;67;;;;vpos;;v;;r&apos;konqueror&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LYNX;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;74;18;74;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;74;18;74;;;;vpos;;v;;r&apos;linxs&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MOZILLA;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;73;21;73;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;73;21;73;;;;vpos;;v;;r&apos;mozilla&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="NETPOSITIVE;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;64;25;64;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;64;25;64;;;;vpos;;v;;r&apos;NetPositive&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="NETSCAPE;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;77;22;77;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;77;22;77;;;;vpos;;v;;r&apos;netscape&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="OMNIWEB;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;69;21;69;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;69;21;69;;;;vpos;;v;;r&apos;omniweb&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="OPERA;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;61;19;61;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;61;19;61;;;;vpos;;v;;r&apos;opera&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PHOENIX;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;70;21;70;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;70;21;70;;;;vpos;;v;;r&apos;Phoenix&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SAFARI;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;76;20;76;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;76;20;76;;;;vpos;;v;;r&apos;safari&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SEAMONKEY;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;79;23;79;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;79;23;79;;;;vpos;;v;;r&apos;SeaMonkey&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WEBTV;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;62;19;62;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;62;19;62;;;;vpos;;v;;r&apos;webtv&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="__construct;PHP:Function Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f8;81;9;347;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f8;81;9;347;;;;vpos;;v;;r;;d8,82;;b0,0;;m">
+</treenode>
+<treenode node="get_browser_name;PHP:Function Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f8;389;9;392;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f8;389;9;392;;;;vpos;;vstring;;r&#10;Definition&#10;    get_browser_name( )&#10;&#10;Description&#10;     Retorna el nom del navegador&#10;&#10;Return:&#10;   OPERA&lt;br&gt;;;d8,390;;b0,0;;m">
+</treenode>
+<treenode node="get_browser_version;PHP:Function Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f8;398;9;401;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f8;398;9;401;;;;vpos;;vstring;;r&#10;Definition&#10;    get_browser_version( )&#10;&#10;Description&#10;     Retorna la versi&amp;oacute;s del navegador;;d8,399;;b0,0;;m">
+</treenode>
+<treenode node="get_system_operating;PHP:Function Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f8;360;9;363;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f8;360;9;363;;;;vpos;;vstring;;r&#10;Definition&#10;    get_system_operating()&#10;&#10;Description&#10;     Retorna el sistema operatiu&#10;&#10;Return:&#10;   &lt;br&gt;;;d8,361;;b0,0;;m">
+</treenode>
+<treenode node="is_gecko;PHP:Function Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f8;418;9;421;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f8;418;9;421;;;;vpos;;vboolean;;r&#10;Definition&#10;    is_gecko( )&#10;&#10;Description&#10;     Indica si el navegador es compatible amb Mozilla/Gecko;;d8,419;;b0,0;;m">
+</treenode>
+<treenode node="is_iexplorer;PHP:Function Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f8;408;9;411;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f8;408;9;411;;;;vpos;;vboolean;;r&#10;Definition&#10;    is_iexplorer( )&#10;&#10;Description&#10;     Indica si el navegador es compatible amb Internet Explorer;;d8,409;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="SYSTEM_OPERATING;PHP:Class Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;33;9;41;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;33;9;41;;;;vpos;;v;;r&#10;Definition&#10;    class SYSTEM_OPERATING&#10;&#10;Description&#10;     Diferents sistemes operatius;;d8,34;;b0,0;;m">
+<treenode node="BEOS;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;40;22;40;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;40;22;40;;;;vpos;;v;;r&apos;BeOS&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="LINUX;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;38;23;38;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;38;23;38;;;;vpos;;v;;r&apos;linux&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAC;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;37;21;37;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;37;21;37;;;;vpos;;v;;r&apos;mac&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="OS2;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;39;21;39;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;39;21;39;;;;vpos;;v;;r&apos;OS/2&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WINDOWS;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;35;25;35;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;35;25;35;;;;vpos;;v;;r&apos;win&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="WINDOWSCE;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;36;27;36;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;36;27;36;;;;vpos;;v;;r&apos;WindowsCE&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+</treenode>
 <treenode node="AddValueNum;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AddValueNum - Sumar valor a posicion array.php;f7;11;1;19;;;;vpos;;v;;r&#10;Definition&#10;    AddValueNum( &amp;$arr, $key, $nNum)&#10;&#10;Description&#10;     Donat un array suma un valor a una posició clau&#10;&#10;Parameters:&#10;    array $arr&#10;    string - | int $key&#10;    int $nNum;;d0,12;;b0,5;;marray $arr;;pstring;;pint $nNum;;p">
 </treenode>
 <treenode node="AppendKeyValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AppendKeyValue - Añadir clave-valor al final de un array.php;f7;11;1;13;;;;vpos;;v;;r&#10;Definition&#10;    AppendKeyValue( &amp;$arr, $sValue, $sKey )&#10;&#10;Description&#10;     Añade una clave/valor al final del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sValue&#10;    string $sKey;;d55,11;;b0,5;;marray $arr;;pstring $sValue;;pstring $sKey;;p">
 </treenode>
 <treenode node="AppendValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AppendValue - Añadir valor al final del array.php;f7;11;1;13;;;;vpos;;v;;r&#10;Definition&#10;    AppendValue( &amp;$arr, $sValue )&#10;&#10;Description&#10;     Añade un valor al final del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sValue;;d45,11;;b0,5;;marray $arr;;pstring $sValue;;p">
+</treenode>
+<treenode node="blowfishDecode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;50;1;54;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishDecode($key, $encoded)&#10;&#10;Description&#10;     Uses blowfish to decode data assumes data has been base64 encoded with the iv stored as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base decoding off of&#10;    STRING - encoded base64 encoded blowfish encrypted data;;d39,50;;b0,0;;mSTRING;;pSTRING;;p">
+</treenode>
+<treenode node="blowfishEncode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;38;1;42;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishEncode($key, $data)&#10;&#10;Description&#10;     Uses blowfish to encrypt data and base 64 encodes it. It stores the iv as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base encoding off of&#10;    STRING - data - string to be encrypted and encoded;;d36,38;;b0,0;;mSTRING;;pSTRING;;p">
+</treenode>
+<treenode node="blowfishGetKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;9;1;30;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishGetKey($type)&#10;&#10;Description&#10;     retrives the system&apos;s private key;s will build one if not found, but anything encrypted before is gone...&#10;&#10;Parameters:&#10;    string - type&#10;&#10;Return:&#10;   key;;d31,9;;b0,0;;mstring;;p">
 </treenode>
 <treenode node="CloneArray;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\CloneArray.php;f7;8;1;14;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;CloneArray( $arr )&#10;&#10;Description&#10;     Devuelve una array identico&#10;&#10;Parameters:&#10;    array $arr;;d35,8;;b0,5;;marray $arr;;p">
 </treenode>
@@ -14,9 +86,45 @@
 </treenode>
 <treenode node="ConcatValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\ConcatValues - Concatena una valor en una posicion.php;f7;11;1;19;;;;vpos;;v;;r&#10;Definition&#10;    ConcatValue( &amp;$arr, $key, $sStr)&#10;&#10;Description&#10;     Donat un valor, concatena un valor a una posició clau&#10;&#10;Parameters:&#10;    array $arr&#10;    string - | int $key&#10;    string $sStr;;d0,12;;b0,5;;marray $arr;;pstring;;pstring $sStr;;p">
 </treenode>
+<treenode node="CryptStr;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\NewFile.php;f0;32;1;50;;;;vpos;;vstring;;r&#10;Definition&#10;    CryptStr($password, $time)&#10;&#10;Description&#10;     Encriptación simple con psw&#10;&#10;Parameters:&#10;    string $password&#10;    string $time;;d0,33;;b0,0;;mstring $password;;pstring $time;;p">
+</treenode>
+<treenode node="decrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\NewFile.php;f9;31;3;51;;;;vpos;;v;;r;;d45,31;;b0,5;;mvar;;pkey;;p">
+</treenode>
+<treenode node="DecryptStr;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\NewFile.php;f0;8;1;23;;;;vpos;;vstring;;r&#10;Definition&#10;    DecryptStr($password, $time)&#10;&#10;Description&#10;     Desencriptación simple con psw&#10;&#10;Parameters:&#10;    string $password&#10;    string $time;;d37,8;;b0,0;;mstring $password;;pstring $time;;p">
+</treenode>
+<treenode node="encrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\NewFile.php;f7;10;3;28;;;;vpos;;v;;r;;d42,10;;b0,5;;mvar;;pkey;;p">
+</treenode>
 <treenode node="GetKeyByValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\GetKeyByValue - Devuelve una key por su valor.php;f7;10;1;21;;;;vpos;;v;;r;;d0,11;;b0,5;;marr;;psValue;;psDefault;;p">
 </treenode>
-<treenode node="RemoveAllValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\RemoveAllValues.php;f7;11;1;19;;;;vpos;;varray;;r&#10;Definition&#10;    RemoveAllValue( $arr, $sStr )&#10;&#10;Description&#10;     Elimina todos los valores del array de una instancia&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sStr&#10;&#10;Return:&#10;   si los elementos indicados;;d45,11;;b0,5;;marray $arr;;pstring $sStr;;p">
+<treenode node="InsertValueToPosition;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\InsertValueToPosition.php;f7;13;1;35;;;;vpos;;varraay;;r&#10;Definition&#10;    InsertValueToPosition( $arr, $nPos, $value)&#10;&#10;Description&#10;     Insertamos una valor en una posición determianda&#10;&#10;Parameters:&#10;    array $arr&#10;    int $nPos&#10;    mixed $value;;d0,14;;b0,5;;marray $arr;;pint $nPos;;pmixed $value;;p">
+</treenode>
+<treenode node="IntersectionByKeys;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\IntersectionByKeys.php;f7;11;1;13;;;;vpos;;varray;;r&#10;Definition&#10;    IntersectionByKeys( $arr1, $arr2 )&#10;&#10;Description&#10;     Deveulve sólo las claves/valores del array1 que estan en todos los claves del otro array&#10;&#10;Parameters:&#10;    array $arr1&#10;    array $arr2;;d50,11;;b0,5;;marray $arr1;;parray $arr2;;p">
+</treenode>
+<treenode node="IntersectionByKeyValues;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\IntersectionByKeyValues.php;f7;11;1;13;;;;vpos;;varray;;r&#10;Definition&#10;    IntersectionByKeyValues( $arr1, $arr2 )&#10;&#10;Description&#10;     Deveulve sólo las claves/valores del array1 que estan en todos los claves/valores del otro array&#10;&#10;Parameters:&#10;    array $arr1&#10;    array $arr2;;d55,11;;b0,5;;marray $arr1;;parray $arr2;;p">
+</treenode>
+<treenode node="IntersectionByValues;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\IntersectionByValues.php;f7;11;1;13;;;;vpos;;varray;;r&#10;Definition&#10;    IntersectionByValues( $arr1, $arr2 )&#10;&#10;Description&#10;     Deveulve sólo los valores del array1 que estan en todos los valores del otro array&#10;&#10;Parameters:&#10;    array $arr1&#10;    array $arr2;;d52,11;;b0,5;;marray $arr1;;parray $arr2;;p">
+</treenode>
+<treenode node="Merge;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\Merge.php;f7;11;1;13;;;;vpos;;varray;;r&#10;Definition&#10;    Merge( $arr1, $arr2 )&#10;&#10;Description&#10;     Devuelve la concatenación de los dos arrays&#10;&#10;Parameters:&#10;    array $arr1&#10;    array $arr2;;d37,11;;b0,5;;marray $arr1;;parray $arr2;;p">
+</treenode>
+<treenode node="PopFirst;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\PopFirst.php;f7;10;1;12;;;;vpos;;vstring;;r&#10;Definition&#10;    PopFirst( &amp;$arr)&#10;&#10;Description&#10;     Devuelve y elimina el primer valor del array&#10;&#10;Parameters:&#10;    array $arr;;d32,10;;b0,5;;marray $arr;;p">
+</treenode>
+<treenode node="PopLast;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\PopLast.php;f7;10;1;12;;;;vpos;;vsrting;;r&#10;Definition&#10;    PopLast( &amp;$arr)&#10;&#10;Description&#10;     Devuelve y elimina el último valor del array&#10;&#10;Parameters:&#10;    array $arr;;d31,10;;b0,5;;marray $arr;;p">
+</treenode>
+<treenode node="RemoveAllValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\RemoveAllValues.php;f7;11;1;19;;F:\GitHUB\Factory-PHP\Array\RemoveAllValue.php;f7;11;1;19;;;;vpos;;varray;;r&#10;Definition&#10;    RemoveAllValue( $arr, $sStr )&#10;&#10;Description&#10;     Elimina todos los valores del array de una instancia&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sStr&#10;&#10;Return:&#10;   si los elementos indicados;;d45,11;;b0,5;;marray $arr;;pstring $sStr;;p">
+</treenode>
+<treenode node="RemoveDuplicates;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\RemoveDuplicates.php;f7;10;1;12;;;;vpos;;varray;;r&#10;Definition&#10;    RemoveDuplicates( $arr )&#10;&#10;Description&#10;     Devuelve un array sin duplicados&#10;&#10;Parameters:&#10;    array $arr;;d40,10;;b0,5;;marray $arr;;p">
+</treenode>
+<treenode node="RemoveKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\RemoveKey.php;f7;11;1;23;;;;vpos;;varray;;r&#10;Definition&#10;    RemoveKey( $arr, $sKey )&#10;&#10;Description&#10;     Elimina una clave y su valor del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sKey&#10;&#10;Return:&#10;   sin la clave indicada;;d40,11;;b0,5;;marray $arr;;pstring $sKey;;p">
+</treenode>
+<treenode node="RemovePosition;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\RemovePosition.php;f7;11;1;21;;;;vpos;;v;;r&#10;Definition&#10;    RemovePosition( $arr, $nPos )&#10;&#10;Description&#10;     Elimina una posición determinada del array&#10;&#10;Parameters:&#10;    array $arr&#10;    int $nPos&#10;    array - sin la posición eliminada;;d45,11;;b0,5;;marr;;pnPos;;p">
+</treenode>
+<treenode node="RemoveValueFirst;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\RemoveValueFirst.php;f7;11;1;23;;;;vpos;;v;;r&#10;Definition&#10;    RemoveValueFirst( $arr, $sStr )&#10;&#10;Description&#10;     Elimina el primer valor de una instancia del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sStr - Valor a eliminar&#10;    array - sin el primer valor eliminado;;d47,11;;b0,5;;marr;;psStr;;p">
+</treenode>
+<treenode node="SortValues;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\SortValues.php;f7;9;1;18;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;SortValues( $arr, $bAscendent=true )&#10;&#10;Description&#10;     Ordena los valores de un array, se mantienen las claves&#10;&#10;Parameters:&#10;    array $arr&#10;    bool $bAscendent;;d53,9;;b0,5;;marray $arr;;pbool $bAscendent;;p">
+</treenode>
+<treenode node="SortValuesNatural;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\SortValuesNatural.php;f7;9;1;19;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;SortValuesNatural( $arr, $bAscendent=true )&#10;&#10;Description&#10;     Ordena un array por los valroes de forma natural, Se pierdenlas claves&#10;&#10;Parameters:&#10;    array $arr&#10;    bool $bAscendent;;d60,9;;b0,5;;marray $arr;;pbool $bAscendent;;p">
+</treenode>
+<treenode node="SwapKeyValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\SwapKeyValue.php;f7;10;1;12;;;;vpos;;varray;;r&#10;Definition&#10;    SwapKeyValue( $arr)&#10;&#10;Description&#10;     Devuelve un array con las claves y valores inercambiados&#10;&#10;Parameters:&#10;    array $arr;;d35,10;;b0,5;;marray $arr;;p">
 </treenode>
 </phptree>
 </codestructure>
