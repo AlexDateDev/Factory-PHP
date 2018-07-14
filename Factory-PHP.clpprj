@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="F:\GitHUB\Factory-PHP\Factory-PHP.clpprj">
 	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
-		<file name="F:\GitHUB\Factory-PHP\Array\InsertValueToPosition.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByKeys.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByKeyValues.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByValues.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\Merge.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\PopFirst.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\PopLast.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\RemoveDuplicates.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\RemoveKey.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\RemovePosition.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\RemoveValueFirst.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\RemoveAllValue.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\SortValues.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\SortValuesNatural.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Array\SwapKeyValue.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Browser\Browser Detect.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Cache\CacheEnd.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Cache\CacheStart.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Cache\File.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Char\CharToBin.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Blowfish.class.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\DefaultKey.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Sample.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt Bu Module.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt By Psw.php"/>
 	</lastopfiles>
 	<errors version="5.11">
 	</errors>
 	<todoblock>
 	</todoblock>
 	<filescache>
+		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Sample.php" crc="1531579269"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\DefaultKey.php" crc="1531579269"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Blowfish.class.php" crc="1531579269"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt.php" crc="1531579333"/>
+		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt By Psw.php" crc="1531579383"/>
+		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt Bu Module.php" crc="1531579383"/>
+		<file name="F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php" crc="1531579134"/>
+		<file name="F:\GitHUB\Factory-PHP\Char\CharToBin.php" crc="1531579081"/>
+		<file name="F:\GitHUB\Factory-PHP\Cache\File.php" crc="1531578854"/>
+		<file name="F:\GitHUB\Factory-PHP\Cache\CacheStart.php" crc="1531578854"/>
+		<file name="F:\GitHUB\Factory-PHP\Cache\CacheEnd.php" crc="1531578854"/>
+		<file name="F:\GitHUB\Factory-PHP\Browser\Browser Detect.php" crc="1531578706"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\SwapKeyValue.php" crc="1529766734"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\SortValuesNatural.php" crc="1529766734"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\SortValues.php" crc="1529766733"/>
