@@ -1,30 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="F:\GitHUB\Factory-PHP\Factory-PHP.clpprj">
-	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
-		<file name="F:\GitHUB\Factory-PHP\Browser\Browser Detect.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Cache\CacheEnd.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Cache\CacheStart.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Cache\File.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Char\CharToBin.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Blowfish.class.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\DefaultKey.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Sample.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt Bu Module.php"/>
-		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt By Psw.php"/>
+	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Module.php;F:\GitHUB\Factory-PHP\Date\NewFile.txt;F:\GitHUB\Factory-PHP\Date\NewFile1.txt;F:\GitHUB\Factory-PHP\Date\NewFolder;"/><added value=""/><lastopfiles>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDateSeparator.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDay.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDiffDates.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDiffDays.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetMonth.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetMonthName.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetYear.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\NewFile.txt"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\IsLeap.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ObtenerNombreDiaSemana.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\NewFile1.txt"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\PrimerDiaMesActual.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\RestarDiasNaturales.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SetDefaultFormat.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SetTimeZone.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\Standarize.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SumarDiasHabiles.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SumarDiasNaturales.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToDateTimeBegin.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToDateTimeEnd.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\Today.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToMySQL.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToStd.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToText.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToTextCultureInfo.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToTimeStamp.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToUTC.php"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\UltimiDiaMesActual.php"/>
 	</lastopfiles>
 	<errors version="5.11">
+		<errfile name="F:\GitHUB\Factory-PHP\Char\CharToBin.php">
+			<error val="18;12;19;12;102;1;"/>
+			<error val="18;13;19;13;102;1;"/>
+			<error val="18;14;19;14;102;1;"/>
+		</errfile>
 	</errors>
 	<todoblock>
 	</todoblock>
 	<filescache>
-		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Sample.php" crc="1531579269"/>
-		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\DefaultKey.php" crc="1531579269"/>
-		<file name="F:\GitHUB\Factory-PHP\Crypt Blowfish\Blowfish.class.php" crc="1531579269"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\UltimiDiaMesActual.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToUTC.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToTimeStamp.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToTextCultureInfo.php" crc="1531580396"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToText.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToStd.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToMySQL.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\Today.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToDateTimeEnd.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ToDateTimeBegin.php" crc="1531580432"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SumarDiasNaturales.php" crc="1531580175"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SumarDiasHabiles.php" crc="1531580175"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\Standarize.php" crc="1531580175"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SetTimeZone.php" crc="1531580133"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\SetDefaultFormat.php" crc="1531580133"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\RestarDiasNaturales.php" crc="1531580133"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\PrimerDiaMesActual.php" crc="1531580133"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\ObtenerNombreDiaSemana.php" crc="1531580133"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\IsLeap.php" crc="1531580068"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetYear.php" crc="1531580133"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetMonthName.php" crc="1531580031"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetMonth.php" crc="1531580009"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDiffDays.php" crc="1531579982"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDiffDates.php" crc="1531579968"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDay.php" crc="1531579953"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetDateSeparator.php" crc="1531579953"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\GetActualDate.php" crc="1531579925"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\CalculateYearsOldBirth.php" crc="1531579925"/>
+		<file name="F:\GitHUB\Factory-PHP\Date\AddMonth.php" crc="1531579890"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php" crc="1531579598"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt Rijndael256\Crypt-Decrypt By Rijndael.php" crc="1531579793"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Sample.php" crc="1531579269"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\DefaultKey.php" crc="1531579269"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php" crc="1531579269"/>
 		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt.php" crc="1531579333"/>
-		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt By Psw.php" crc="1531579383"/>
-		<file name="F:\GitHUB\Factory-PHP\Cookies\Crypt-Decrypt Bu Module.php" crc="1531579383"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Trasposition.php" crc="1531579552"/>
+		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Psw.php" crc="1531579383"/>
 		<file name="F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php" crc="1531579134"/>
 		<file name="F:\GitHUB\Factory-PHP\Char\CharToBin.php" crc="1531579081"/>
 		<file name="F:\GitHUB\Factory-PHP\Cache\File.php" crc="1531578854"/>

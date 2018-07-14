@@ -1,5 +1,11 @@
 <codestructure version="5.14">
 <phptree>
+<treenode node="COPY_CONSTRUCT;PHP:PHP Word;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f8;30;22;30;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f8;30;22;30;;;;vpos;;v;;r&quot;-65535&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="NO_NODE;PHP:PHP Word;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f8;31;15;31;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f8;31;15;31;;;;vpos;;v;;r&quot;-65535&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="NO_POS;PHP:PHP Word;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f8;32;14;32;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f8;32;14;32;;;;vpos;;v;;r&quot;-65535&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
 <treenode node="BROWSER;PHP:Class Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f4;53;5;422;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f4;53;5;422;;;;vpos;;v;;r&#10;Definition&#10;    class BROWSER&#10;&#10;Description&#10;     Detecta el navegador utilitzat per l&apos;usuari;;d4,54;;b0,0;;m">
 <treenode node="AMAYA;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f13;75;19;75;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f13;75;19;75;;;;vpos;;v;;r&apos;amaya&apos;;;d-1,-1;;b0,0;;m">
 </treenode>
@@ -52,6 +58,52 @@
 <treenode node="is_iexplorer;PHP:Function Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f8;408;9;411;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f8;408;9;411;;;;vpos;;vboolean;;r&#10;Definition&#10;    is_iexplorer( )&#10;&#10;Description&#10;     Indica si el navegador es compatible amb Internet Explorer;;d8,409;;b0,0;;m">
 </treenode>
 </treenode>
+<treenode node="Cookie;PHP:Class Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f0;41;1;215;;;;vpos;;v;;r;;d0,42;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f12;47;37;47;;;;vpos;;v;;r;;d35,47;;b3,0;;m">
+</treenode>
+<treenode node="_scrubKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f19;185;5;214;;;;vpos;;v;;r;;d4,186;;b3,5;;mkey;;ptoString;;p">
+</treenode>
+<treenode node="contents;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f18;155;5;158;;;;vpos;;v;;r;;d4,156;;b1,5;;m">
+</treenode>
+<treenode node="del;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f18;50;5;53;;;;vpos;;v;;r;;d4,51;;b1,5;;mkey;;p">
+</treenode>
+<treenode node="delete;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f18;56;5;106;;;;vpos;;v;;r;;d4,57;;b1,5;;mkey;;p">
+</treenode>
+<treenode node="exists;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f18;109;5;129;;;;vpos;;v;;r;;d4,110;;b1,5;;mkey;;p">
+</treenode>
+<treenode node="get;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f18;132;5;152;;;;vpos;;v;;r;;d4,133;;b1,5;;mkey;;p">
+</treenode>
+<treenode node="set;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php;f18;161;5;182;;;;vpos;;v;;r;;d5,169;;b1,5;;mkey;;pvalue;;pexpire;;ppath;;pdomain;;psecure;;phttponly;;p">
+</treenode>
+</treenode>
+<treenode node="Crypt_Blowfish;PHP:Class Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f0;48;1;322;;;;vpos;;v;;r&#10;Definition&#10;    class Crypt_Blowfish&#10;&#10;Description&#10;      Example usage: $bf = new Crypt_Blowfish(&apos;some secret key!&apos;);s $encrypted = $bf-&gt;encrypt(&apos;this is some example plain text&apos;);s $plaintext = $bf-&gt;decrypt($encrypted);s echo &quot;plain text: $plaintext&quot;;s;;d0,49;;b0,0;;m">
+<treenode node="_decipher;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;170;5;182;;;;vpos;;v;;r&#10;Definition&#10;    _decipher(&amp;$Xl, &amp;$Xr)&#10;&#10;Description&#10;     Deciphers a single 64 bit block&#10;&#10;Parameters:&#10;    int - &amp;$Xl&#10;    int - &amp;$Xr;;d4,171;;b0,0;;mint;;pint;;p">
+</treenode>
+<treenode node="_encipher;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;148;5;160;;;;vpos;;v;;r&#10;Definition&#10;    _encipher(&amp;$Xl, &amp;$Xr)&#10;&#10;Description&#10;     Enciphers a single 64 bit block&#10;&#10;Parameters:&#10;    int - &amp;$Xl&#10;    int - &amp;$Xr;;d4,149;;b0,0;;mint;;pint;;p">
+</treenode>
+<treenode node="_init;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;134;5;139;;;;vpos;;v;;r&#10;Definition&#10;    _init()&#10;&#10;Description&#10;     Initializes the Crypt_Blowfish object;;d4,135;;b0,0;;m">
+</treenode>
+<treenode node="Crypt_Blowfish;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;92;5;101;;;;vpos;;v;;r&#10;Definition&#10;    Crypt_Blowfish($key)&#10;&#10;Description&#10;     Crypt_Blowfish Constructor Initializes the Crypt_Blowfish object, and gives a sets the secret key&#10;&#10;Parameters:&#10;    string $key;;d4,93;;b0,0;;mstring $key;;p">
+</treenode>
+<treenode node="decrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;223;5;244;;;;vpos;;vstring;;r&#10;Definition&#10;    decrypt($cipherText)&#10;&#10;Description&#10;     Decrypts an encrypted string&#10;&#10;Parameters:&#10;    string $cipherText&#10;&#10;Return:&#10;   Returns plain text on success, PEAR_Error on failure;;d4,224;;b0,0;;mstring $cipherText;;p">
+</treenode>
+<treenode node="encrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;192;5;213;;;;vpos;;vstring;;r&#10;Definition&#10;    encrypt($plainText)&#10;&#10;Description&#10;     Encrypts a string&#10;&#10;Parameters:&#10;    string $plainText&#10;&#10;Return:&#10;   Returns cipher text on success, PEAR_Error on failure;;d4,193;;b0,0;;mstring $plainText;;p">
+</treenode>
+<treenode node="init;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;124;5;127;;;;vpos;;vbool;;r&#10;Definition&#10;    init()&#10;&#10;Description&#10;     Deprecated init method - init is now a private method and has been replaced with _init;;d4,125;;b0,0;;m">
+</treenode>
+<treenode node="isReady;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;110;5;113;;;;vpos;;vbool;;r&#10;Definition&#10;    isReady()&#10;&#10;Description&#10;     Deprecated isReady method;;d4,111;;b0,0;;m">
+</treenode>
+<treenode node="setKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Blowfish.class.php;f4;256;5;320;;;;vpos;;vbool;;r&#10;Definition&#10;    setKey($key)&#10;&#10;Description&#10;     Sets the secret key The key must be non-zero, and less than or equal to 56 characters in length.&#10;&#10;Parameters:&#10;    string $key&#10;&#10;Return:&#10;   Returns true on success, PEAR_Error on failure;;d4,257;;b0,0;;mstring $key;;p">
+</treenode>
+</treenode>
+<treenode node="Crypt_Blowfish_DefaultKey;PHP:Class Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\DefaultKey.php;f0;40;1;324;;;;vpos;;v;;r&#10;Definition&#10;    class Crypt_Blowfish_DefaultKey&#10;&#10;Description&#10;     Class containing default key;;d0,41;;b0,0;;m">
+<treenode node="Crypt_Blowfish_DefaultKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\DefaultKey.php;f4;46;5;322;;;;vpos;;v;;r;;d4,47;;b0,0;;m">
+</treenode>
+</treenode>
+<treenode node="HTNode;PHP:Class Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f0;33;1;45;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f0;33;1;45;;;;vpos;;v;;r;;d13,33;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f11;38;5;44;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f11;38;5;44;;;;vpos;;v;;r;;d88,38;;b1,0;;m_d;;p_w;;p_pos;;p_l;;p_r;;p">
+</treenode>
+</treenode>
 <treenode node="SYSTEM_OPERATING;PHP:Class Name;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;33;9;41;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;33;9;41;;;;vpos;;v;;r&#10;Definition&#10;    class SYSTEM_OPERATING&#10;&#10;Description&#10;     Diferents sistemes operatius;;d8,34;;b0,0;;m">
 <treenode node="BEOS;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;40;22;40;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;40;22;40;;;;vpos;;v;;r&apos;BeOS&apos;;;d-1,-1;;b0,0;;m">
 </treenode>
@@ -66,17 +118,29 @@
 <treenode node="WINDOWSCE;PHP:PHP Word;F:\GitHUB\Factory-PHP\Browser\NewFile.php;f17;36;27;36;;F:\GitHUB\Factory-PHP\Browser\Browser Detect.php;f17;36;27;36;;;;vpos;;v;;r&apos;WindowsCE&apos;;;d-1,-1;;b0,0;;m">
 </treenode>
 </treenode>
+<treenode node="XHaffman;PHP:Class Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f0;51;1;226;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f0;51;1;226;;;;vpos;;v;;r;;d15,51;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f11;140;5;156;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f11;140;5;156;;;;vpos;;v;;r;;d34,140;;b1,0;;m">
+</treenode>
+<treenode node="__CreateHT;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f12;88;5;122;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f12;88;5;122;;;;vpos;;v;;r&#10;Definition&#10;    __CreateHT()&#10;&#10;Description&#10;     &amp;#21019;s&amp;#24314;s&amp;#21704;s&amp;#24343;s&amp;#26364;s&amp;#26641;s;;d34,88;;b3,0;;m">
+</treenode>
+<treenode node="__CreateHTCode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f12;127;5;138;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f12;127;5;138;;;;vpos;;v;;r&#10;Definition&#10;    __CreateHTCode($pos, $num)&#10;&#10;Description&#10;     &amp;#21019;s&amp;#24314;s&amp;#21704;s&amp;#24343;s&amp;#26364;s&amp;#32534;s&amp;#30721;s;;d48,127;;b3,0;;mpos;;pnum;;p">
+</treenode>
+<treenode node="Decode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f11;165;5;191;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f11;165;5;191;;;;vpos;;v;;r&#10;Definition&#10;    Decode($str, $key)&#10;&#10;Description&#10;     &amp;#35299;s&amp;#23494;s&amp;#20989;s&amp;#25968;s&#10;&#10;Parameters:&#10;     $str&#10;     $key;;d39,165;;b1,0;;m $str;;p $key;;p">
+</treenode>
+<treenode node="Encode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f11;200;9;225;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f11;200;9;225;;;;vpos;;v;;r&#10;Definition&#10;    Encode($str, $key)&#10;&#10;Description&#10;     &amp;#21152;s&amp;#23494;s&amp;#20989;s&amp;#25968;s&#10;&#10;Parameters:&#10;     $str&#10;     $key;;d39,200;;b1,0;;m $str;;p $key;;p">
+</treenode>
+</treenode>
 <treenode node="AddValueNum;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AddValueNum - Sumar valor a posicion array.php;f7;11;1;19;;;;vpos;;v;;r&#10;Definition&#10;    AddValueNum( &amp;$arr, $key, $nNum)&#10;&#10;Description&#10;     Donat un array suma un valor a una posició clau&#10;&#10;Parameters:&#10;    array $arr&#10;    string - | int $key&#10;    int $nNum;;d0,12;;b0,5;;marray $arr;;pstring;;pint $nNum;;p">
 </treenode>
 <treenode node="AppendKeyValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AppendKeyValue - Añadir clave-valor al final de un array.php;f7;11;1;13;;;;vpos;;v;;r&#10;Definition&#10;    AppendKeyValue( &amp;$arr, $sValue, $sKey )&#10;&#10;Description&#10;     Añade una clave/valor al final del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sValue&#10;    string $sKey;;d55,11;;b0,5;;marray $arr;;pstring $sValue;;pstring $sKey;;p">
 </treenode>
 <treenode node="AppendValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AppendValue - Añadir valor al final del array.php;f7;11;1;13;;;;vpos;;v;;r&#10;Definition&#10;    AppendValue( &amp;$arr, $sValue )&#10;&#10;Description&#10;     Añade un valor al final del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sValue;;d45,11;;b0,5;;marray $arr;;pstring $sValue;;p">
 </treenode>
-<treenode node="blowfishDecode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;50;1;54;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishDecode($key, $encoded)&#10;&#10;Description&#10;     Uses blowfish to decode data assumes data has been base64 encoded with the iv stored as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base decoding off of&#10;    STRING - encoded base64 encoded blowfish encrypted data;;d39,50;;b0,0;;mSTRING;;pSTRING;;p">
+<treenode node="blowfishDecode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;50;1;54;;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Sample.php;f0;50;1;54;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishDecode($key, $encoded)&#10;&#10;Description&#10;     Uses blowfish to decode data assumes data has been base64 encoded with the iv stored as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base decoding off of&#10;    STRING - encoded base64 encoded blowfish encrypted data;;d39,50;;b0,0;;mSTRING;;pSTRING;;p">
 </treenode>
-<treenode node="blowfishEncode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;38;1;42;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishEncode($key, $data)&#10;&#10;Description&#10;     Uses blowfish to encrypt data and base 64 encodes it. It stores the iv as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base encoding off of&#10;    STRING - data - string to be encrypted and encoded;;d36,38;;b0,0;;mSTRING;;pSTRING;;p">
+<treenode node="blowfishEncode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;38;1;42;;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Sample.php;f0;38;1;42;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishEncode($key, $data)&#10;&#10;Description&#10;     Uses blowfish to encrypt data and base 64 encodes it. It stores the iv as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base encoding off of&#10;    STRING - data - string to be encrypted and encoded;;d36,38;;b0,0;;mSTRING;;pSTRING;;p">
 </treenode>
-<treenode node="blowfishGetKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;9;1;30;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishGetKey($type)&#10;&#10;Description&#10;     retrives the system&apos;s private key;s will build one if not found, but anything encrypted before is gone...&#10;&#10;Parameters:&#10;    string - type&#10;&#10;Return:&#10;   key;;d31,9;;b0,0;;mstring;;p">
+<treenode node="blowfishGetKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;9;1;30;;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Sample.php;f0;9;1;30;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishGetKey($type)&#10;&#10;Description&#10;     retrives the system&apos;s private key;s will build one if not found, but anything encrypted before is gone...&#10;&#10;Parameters:&#10;    string - type&#10;&#10;Return:&#10;   key;;d31,9;;b0,0;;mstring;;p">
 </treenode>
 <treenode node="CloneArray;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\CloneArray.php;f7;8;1;14;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;CloneArray( $arr )&#10;&#10;Description&#10;     Devuelve una array identico&#10;&#10;Parameters:&#10;    array $arr;;d35,8;;b0,5;;marray $arr;;p">
 </treenode>
@@ -86,15 +150,25 @@
 </treenode>
 <treenode node="ConcatValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\ConcatValues - Concatena una valor en una posicion.php;f7;11;1;19;;;;vpos;;v;;r&#10;Definition&#10;    ConcatValue( &amp;$arr, $key, $sStr)&#10;&#10;Description&#10;     Donat un valor, concatena un valor a una posició clau&#10;&#10;Parameters:&#10;    array $arr&#10;    string - | int $key&#10;    string $sStr;;d0,12;;b0,5;;marray $arr;;pstring;;pstring $sStr;;p">
 </treenode>
-<treenode node="CryptStr;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\NewFile.php;f0;32;1;50;;;;vpos;;vstring;;r&#10;Definition&#10;    CryptStr($password, $time)&#10;&#10;Description&#10;     Encriptación simple con psw&#10;&#10;Parameters:&#10;    string $password&#10;    string $time;;d0,33;;b0,0;;mstring $password;;pstring $time;;p">
+<treenode node="CryptByModule;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Rijndael256\NewFile.php;f0;35;1;50;;F:\GitHUB\Factory-PHP\Crypt\Crypt Rijndael256\Crypt-Decrypt By Rijndael.php;f0;35;1;50;;;;vpos;;vstring;;r&#10;Definition&#10;    CryptByModule($sValue, $sSecretKey)&#10;&#10;Description&#10;     Encripta un valor respecto una clave secreta, Hay que tener cargado el módulo php_mcrypt.dll&#10;&#10;Parameters:&#10;    string $sValue&#10;    string $sSecretKey;;d0,36;;b0,0;;mstring $sValue;;pstring $sSecretKey;;p">
 </treenode>
-<treenode node="decrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\NewFile.php;f9;31;3;51;;;;vpos;;v;;r;;d45,31;;b0,5;;mvar;;pkey;;p">
+<treenode node="CryptByTrasposition;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\NewFile.php;f0;30;1;45;;;;vpos;;vstring;;r&#10;Definition&#10;    CryptByTrasposition($str_message)&#10;&#10;Description&#10;     Encripta un valor por trasposición de valores&#10;&#10;Parameters:&#10;    string $str_message;;d0,31;;b0,0;;mstring $str_message;;p">
 </treenode>
-<treenode node="DecryptStr;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\NewFile.php;f0;8;1;23;;;;vpos;;vstring;;r&#10;Definition&#10;    DecryptStr($password, $time)&#10;&#10;Description&#10;     Desencriptación simple con psw&#10;&#10;Parameters:&#10;    string $password&#10;    string $time;;d37,8;;b0,0;;mstring $password;;pstring $time;;p">
+<treenode node="CryptStr;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\NewFile.php;f0;32;1;50;;F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Psw.php;f0;32;1;50;;;;vpos;;vstring;;r&#10;Definition&#10;    CryptStr($password, $time)&#10;&#10;Description&#10;     Encriptación simple con psw&#10;&#10;Parameters:&#10;    string $password&#10;    string $time;;d0,33;;b0,0;;mstring $password;;pstring $time;;p">
 </treenode>
-<treenode node="encrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\NewFile.php;f7;10;3;28;;;;vpos;;v;;r;;d42,10;;b0,5;;mvar;;pkey;;p">
+<treenode node="decrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt.php;f9;31;3;51;;;;vpos;;v;;r;;d45,31;;b0,5;;mvar;;pkey;;p">
+</treenode>
+<treenode node="DecryptByModule;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Rijndael256\NewFile.php;f0;9;1;25;;F:\GitHUB\Factory-PHP\Crypt\Crypt Rijndael256\Crypt-Decrypt By Rijndael.php;f0;9;1;25;;;;vpos;;vstring;;r&#10;Definition&#10;    DecryptByModule($sValue, $sSecretKey)&#10;&#10;Description&#10;     Desencripta un valor encriptado mediante una clave secreta Hay que tener cargado el módulo php_mcrypt.dll&#10;&#10;Parameters:&#10;    string $sValue&#10;    string $sSecretKey;;d0,10;;b0,0;;mstring $sValue;;pstring $sSecretKey;;p">
+</treenode>
+<treenode node="DecryptByTrasposition;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\NewFile.php;f0;8;1;23;;;;vpos;;vstring;;r&#10;Definition&#10;    DecryptByTrasposition($str_message)&#10;&#10;Description&#10;     Desencripta un valor por trasposición de valores&#10;&#10;Parameters:&#10;    string $str_message;;d0,9;;b0,0;;mstring $str_message;;p">
+</treenode>
+<treenode node="DecryptStr;PHP:Function Name;F:\GitHUB\Factory-PHP\Cookies\NewFile.php;f0;8;1;23;;F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Psw.php;f0;8;1;23;;;;vpos;;vstring;;r&#10;Definition&#10;    DecryptStr($password, $time)&#10;&#10;Description&#10;     Desencriptación simple con psw&#10;&#10;Parameters:&#10;    string $password&#10;    string $time;;d37,8;;b0,0;;mstring $password;;pstring $time;;p">
+</treenode>
+<treenode node="encrypt;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt.php;f7;10;3;28;;;;vpos;;v;;r;;d42,10;;b0,5;;mvar;;pkey;;p">
 </treenode>
 <treenode node="GetKeyByValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\GetKeyByValue - Devuelve una key por su valor.php;f7;10;1;21;;;;vpos;;v;;r;;d0,11;;b0,5;;marr;;psValue;;psDefault;;p">
+</treenode>
+<treenode node="HTNodeCmp;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f0;47;1;49;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f0;47;1;49;;;;vpos;;v;;r;;d41,47;;b0,0;;ma;;pb;;p">
 </treenode>
 <treenode node="InsertValueToPosition;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\InsertValueToPosition.php;f7;13;1;35;;;;vpos;;varraay;;r&#10;Definition&#10;    InsertValueToPosition( $arr, $nPos, $value)&#10;&#10;Description&#10;     Insertamos una valor en una posición determianda&#10;&#10;Parameters:&#10;    array $arr&#10;    int $nPos&#10;    mixed $value;;d0,14;;b0,5;;marray $arr;;pint $nPos;;pmixed $value;;p">
 </treenode>
@@ -125,6 +199,8 @@
 <treenode node="SortValuesNatural;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\SortValuesNatural.php;f7;9;1;19;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;SortValuesNatural( $arr, $bAscendent=true )&#10;&#10;Description&#10;     Ordena un array por los valroes de forma natural, Se pierdenlas claves&#10;&#10;Parameters:&#10;    array $arr&#10;    bool $bAscendent;;d60,9;;b0,5;;marray $arr;;pbool $bAscendent;;p">
 </treenode>
 <treenode node="SwapKeyValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\SwapKeyValue.php;f7;10;1;12;;;;vpos;;varray;;r&#10;Definition&#10;    SwapKeyValue( $arr)&#10;&#10;Description&#10;     Devuelve un array con las claves y valores inercambiados&#10;&#10;Parameters:&#10;    array $arr;;d35,10;;b0,5;;marray $arr;;p">
+</treenode>
+<treenode node="UltimoDiaMesActual;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\NewFile.php;f7;1;4;6;;;;vpos;;v;;r;;d37,1;;b0,5;;m">
 </treenode>
 </phptree>
 </codestructure>
