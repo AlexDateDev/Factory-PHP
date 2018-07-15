@@ -1,0 +1,24 @@
+; -----------------------------------------------------------------------------
+;                                       DTT 1.2.1.3  (c)2013 FSL - FreeSoftLand
+;  Title: SMTP
+;
+;  Date : 04/09/2013
+;  By   : Type here your name or nickname.
+; -----------------------------------------------------------------------------
+
+; Archivo php.ini
+
+[mail function]
+; For Win32 only.
+
+SMTP = 192.168.2.3
+smtp_port = 25
+auth_username = "dotproject"
+auth_password = "DPatexsa1"
+
+; For Win32 only.
+sendmail_from = "dotproject@atexsa.es"
+
+; For Unix only.  You may supply arguments as well (default: "sendmail -t -i").
+;sendmail_path = "C:\apache2triad\mail\bin\sendmail.exe"
+                    
