@@ -1,17 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="F:\GitHUB\Factory-PHP\Factory-PHP.clpprj">
-	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Module.php;F:\GitHUB\Factory-PHP\DateTime\ToTimeStamp.php;F:\GitHUB\Factory-PHP\Date\NewFile.txt;F:\GitHUB\Factory-PHP\Date\NewFile1.txt;F:\GitHUB\Factory-PHP\Date\NewFolder;F:\GitHUB\Factory-PHP\Image;F:\GitHUB\Factory-PHP\Image\Cargar imagen aleatoria.php;F:\GitHUB\Factory-PHP\Mail\PhtMailer\NewFolder;"/><added value=""/><lastopfiles>
+	<settings><PM_URL><![CDATA[F:/GitHUB/]]></PM_URL><PM_HOME_URL><![CDATA[F:/GitHUB/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Module.php;F:\GitHUB\Factory-PHP\DateTime\ToTimeStamp.php;F:\GitHUB\Factory-PHP\Date\NewFile.txt;F:\GitHUB\Factory-PHP\Date\NewFile1.txt;F:\GitHUB\Factory-PHP\Date\NewFolder;F:\GitHUB\Factory-PHP\Image;F:\GitHUB\Factory-PHP\Image\Cargar imagen aleatoria.php;F:\GitHUB\Factory-PHP\Mail\PhtMailer\NewFolder;F:\GitHUB\Factory-PHP\NewFile.php;F:\GitHUB\Factory-PHP\NewFolder;"/><added value=""/><lastopfiles>
 	</lastopfiles>
 	<errors version="5.11">
-		<errfile name="F:\GitHUB\Factory-PHP\Char\CharToBin.php">
-			<error val="18;12;19;12;102;1;"/>
-			<error val="18;13;19;13;102;1;"/>
-			<error val="18;14;19;14;102;1;"/>
-		</errfile>
 	</errors>
 	<todoblock>
 	</todoblock>
 	<filescache>
+		<file name="F:\GitHUB\Factory-PHP\String\WordWrapStr.php" crc="1531606118"/>
+		<file name="F:\GitHUB\Factory-PHP\String\Truncate.php" crc="1531606118"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToZero.php" crc="1531606118"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToUCWords.php" crc="1531606082"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToUCFirst.php" crc="1531606082"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToStripSlash.php" crc="1531606082"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToStrEuro.php" crc="1531606044"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToStrBytes.php" crc="1531606044"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToSINO.php" crc="1531606017"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToNbsp.php" crc="1531606005"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToHtml.php" crc="1531605994"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToDouble.php" crc="1531605975"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToBool.php" crc="1531605959"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToArrayWords.php" crc="1531605959"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToArrayChars.php" crc="1531605959"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ToArray.php" crc="1531605959"/>
+		<file name="F:\GitHUB\Factory-PHP\String\Sanitize.php" crc="1531605894"/>
+		<file name="F:\GitHUB\Factory-PHP\String\RightStr.php" crc="1531605874"/>
+		<file name="F:\GitHUB\Factory-PHP\String\RightNum.php" crc="1531605831"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ReplaceStrInsensitive.php" crc="1531605808"/>
+		<file name="F:\GitHUB\Factory-PHP\String\ReplaceStr.php" crc="1531605808"/>
+		<file name="F:\GitHUB\Factory-PHP\String\Mid.php" crc="1531605808"/>
+		<file name="F:\GitHUB\Factory-PHP\String\LeftStr.php" crc="1531605768"/>
+		<file name="F:\GitHUB\Factory-PHP\String\LeftNumBack.php" crc="1531605768"/>
+		<file name="F:\GitHUB\Factory-PHP\String\LeftNum.php" crc="1531605725"/>
+		<file name="F:\GitHUB\Factory-PHP\String\IsSanitized.php" crc="1531605725"/>
+		<file name="F:\GitHUB\Factory-PHP\String\IsIn.php" crc="1531605725"/>
+		<file name="F:\GitHUB\Factory-PHP\String\IndexOfLast.php" crc="1531605669"/>
+		<file name="F:\GitHUB\Factory-PHP\String\IndexOf.php" crc="1531605668"/>
+		<file name="F:\GitHUB\Factory-PHP\String\HasNewLines.php" crc="1531605598"/>
+		<file name="F:\GitHUB\Factory-PHP\String\HasEmailHeaders.php" crc="1531605668"/>
+		<file name="F:\GitHUB\Factory-PHP\String\HasComandoControl.php" crc="1531605546"/>
+		<file name="F:\GitHUB\Factory-PHP\String\GetIntoHtmlTags.php" crc="1531605516"/>
+		<file name="F:\GitHUB\Factory-PHP\String\GenerateRandomPassword.php" crc="1531605503"/>
+		<file name="F:\GitHUB\Factory-PHP\String\GenerateRandomNumberRange.php" crc="1531605488"/>
+		<file name="F:\GitHUB\Factory-PHP\String\GenerateRandomNumber.php" crc="1531605488"/>
+		<file name="F:\GitHUB\Factory-PHP\String\GenerarUID32.php" crc="1531605448"/>
+		<file name="F:\GitHUB\Factory-PHP\String\Format.php" crc="1531605430"/>
+		<file name="F:\GitHUB\Factory-PHP\String\FillLeft.php" crc="1531605430"/>
+		<file name="F:\GitHUB\Factory-PHP\String\EntityDecode-Encode.php" crc="1531605398"/>
+		<file name="F:\GitHUB\Factory-PHP\String\EliminarEspaciosInnecesarios.php" crc="1531605363"/>
+		<file name="F:\GitHUB\Factory-PHP\String\EliminarAcentos.php" crc="1531605363"/>
+		<file name="F:\GitHUB\Factory-PHP\String\BuscarPalabra.php" crc="1531605363"/>
+		<file name="F:\GitHUB\Factory-PHP\String\brToNL.php" crc="1531605363"/>
+		<file name="F:\GitHUB\Factory-PHP\Singelton\Singelton.class.php" crc="1531604562"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\SaveObject.php" crc="1531604477"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\Save.php" crc="1531604477"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\Remove.php" crc="1531604477"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\ReadObject.php" crc="1531604477"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\Read.php" crc="1531604477"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\GetZip.php" crc="1531604477"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\GetUnzip.php" crc="1531604477"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\Exists.php" crc="1531604382"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\End.php" crc="1531604351"/>
+		<file name="F:\GitHUB\Factory-PHP\Session\Begin.php" crc="1531604294"/>
+		<file name="F:\GitHUB\Factory-PHP\QueryString\GetParamValue.php" crc="1531603942"/>
+		<file name="F:\GitHUB\Factory-PHP\QueryString\GetParamsArray.php" crc="1531603942"/>
+		<file name="F:\GitHUB\Factory-PHP\QueryString\ExistsParam.php" crc="1531603942"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToText.php" crc="1531603724"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToString.php" crc="1531603724"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToSelect.php" crc="1531603724"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToRadio.php" crc="1531603690"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToInt.php" crc="1531603690"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToFloat.php" crc="1531603690"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToCheckBox.php" crc="1531603651"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToBool.php" crc="1531603622"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ToArray.php" crc="1531603605"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ObtenerValor.php" crc="1531603605"/>
+		<file name="F:\GitHUB\Factory-PHP\Post\ExisteClave.php" crc="1531603577"/>
+		<file name="F:\GitHUB\Factory-PHP\ODBC\Importar datosXML to MsAccess.php" crc="1531603281"/>
+		<file name="F:\GitHUB\Factory-PHP\Number\ToUtf.php" crc="1531603228"/>
+		<file name="F:\GitHUB\Factory-PHP\Number\ToStringBytes.php" crc="1531603228"/>
+		<file name="F:\GitHUB\Factory-PHP\Number\ToString.php" crc="1531603228"/>
+		<file name="F:\GitHUB\Factory-PHP\Number\ToEuro.php" crc="1531603228"/>
+		<file name="F:\GitHUB\Factory-PHP\Number\FormatNumberDisplay.php" crc="1531603228"/>
+		<file name="F:\GitHUB\Factory-PHP\Month\ToStd.php" crc="1531603087"/>
+		<file name="F:\GitHUB\Factory-PHP\Month\GetNumDays.php" crc="1531603087"/>
+		<file name="F:\GitHUB\Factory-PHP\Month\GetName.php" crc="1531603087"/>
+		<file name="F:\GitHUB\Factory-PHP\Month\GetLastDayNatural.php" crc="1531603087"/>
+		<file name="F:\GitHUB\Factory-PHP\Month\GetLastDayHabil.php" crc="1531603087"/>
+		<file name="F:\GitHUB\Factory-PHP\Month\GetFirstDay.php" crc="1531603087"/>
+		<file name="F:\GitHUB\Factory-PHP\Month\GetActual.php" crc="1531603087"/>
 		<file name="F:\GitHUB\Factory-PHP\Mime\MimeTypes.php" crc="1531593563"/>
 		<file name="F:\GitHUB\Factory-PHP\Javascript\Reload.php" crc="1531593197"/>
 		<file name="F:\GitHUB\Factory-PHP\Javascript\Redirect.php" crc="1531593197"/>
@@ -19,6 +96,7 @@
 		<file name="F:\GitHUB\Factory-PHP\Javascript\CloseWindow.php" crc="1531593197"/>
 		<file name="F:\GitHUB\Factory-PHP\Javascript\alertBack.php" crc="1531593197"/>
 		<file name="F:\GitHUB\Factory-PHP\Javascript\alert.php" crc="1531593127"/>
+		<file name="F:\GitHUB\Factory-PHP\Headers\Redireccionar una página.php" crc="1531604120"/>
 		<file name="F:\GitHUB\Factory-PHP\GUID\IsGUID.php" crc="1531592965"/>
 		<file name="F:\GitHUB\Factory-PHP\GUID\CreateGUID.php" crc="1531592874"/>
 		<file name="F:\GitHUB\Factory-PHP\Get\ToString.php" crc="1531592809"/>
@@ -108,6 +186,7 @@
 		<file name="F:\GitHUB\Factory-PHP\Debug\StackTraceErrorHandler.php" crc="1531590769"/>
 		<file name="F:\GitHUB\Factory-PHP\Debug\SetLog.php" crc="1531590571"/>
 		<file name="F:\GitHUB\Factory-PHP\Debug\pr.php" crc="1531590562"/>
+		<file name="F:\GitHUB\Factory-PHP\Debug\PhpInfo.php" crc="1531603448"/>
 		<file name="F:\GitHUB\Factory-PHP\Debug\ErrorLog.class.php" crc="1531590529"/>
 		<file name="F:\GitHUB\Factory-PHP\Debug\display_stack_trace.php" crc="1531590512"/>
 		<file name="F:\GitHUB\Factory-PHP\Debug\debug.php.php" crc="1531590276"/>
@@ -159,7 +238,7 @@
 		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Trasposition.php" crc="1531579552"/>
 		<file name="F:\GitHUB\Factory-PHP\Crypt\Crypt-Decrypt By Psw.php" crc="1531579383"/>
 		<file name="F:\GitHUB\Factory-PHP\Cookies\Cookie.class.php" crc="1531579134"/>
-		<file name="F:\GitHUB\Factory-PHP\Char\CharToBin.php" crc="1531579081"/>
+		<file name="F:\GitHUB\Factory-PHP\Char\CharToBin.php" crc="1531605363"/>
 		<file name="F:\GitHUB\Factory-PHP\Cache\File.php" crc="1531578854"/>
 		<file name="F:\GitHUB\Factory-PHP\Cache\CacheStart.php" crc="1531578854"/>
 		<file name="F:\GitHUB\Factory-PHP\Cache\CacheEnd.php" crc="1531578854"/>
@@ -174,6 +253,7 @@
 		<file name="F:\GitHUB\Factory-PHP\Array\RemoveAllValue.php" crc="1529766733"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\PopLast.php" crc="1529766475"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\PopFirst.php" crc="1529766730"/>
+		<file name="F:\GitHUB\Factory-PHP\Array\Order By MulArray.php" crc="1531603343"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\Merge.php" crc="1529766730"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByValues.php" crc="1529766729"/>
 		<file name="F:\GitHUB\Factory-PHP\Array\IntersectionByKeyValues.php" crc="1529766729"/>
