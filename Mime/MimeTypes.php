@@ -10,9 +10,6 @@
 ?>
 
 <?php
-<?php
-
-
         /**
          * Array de tipos MIME
          *
