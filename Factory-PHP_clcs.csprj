@@ -134,6 +134,10 @@
 <treenode node="set_subject;PHP:Function Name;F:\GitHUB\Factory-PHP\Mail\NewFile.php;f8;137;9;140;;F:\GitHUB\Factory-PHP\EMail\Mail.class.php;f8;137;9;140;;;;vpos;;v;;r&#10;Definition&#10;    set_subject( $sText )&#10;&#10;Description&#10;     Assigna l&apos;assupmte del correu&#10;&#10;Parameters:&#10;    string $sText;;d8,138;;b0,0;;mstring $sText;;p">
 </treenode>
 </treenode>
+<treenode node="MyClass;PHP:Class Name;F:\GitHUB\Factory-PHP\Singelton\NewFile.php;f0;10;1;29;;;;vpos;;v;;r;;d14,10;;b0,0;;m">
+<treenode node="getInstance;PHP:Function Name;F:\GitHUB\Factory-PHP\Singelton\NewFile.php;f16;20;3;28;;;;vpos;;v;;r;;d39,20;;b1,5;;m">
+</treenode>
+</treenode>
 <treenode node="parseCSV;PHP:Class Name;F:\GitHUB\Factory-PHP\File\CSV\FileParseCSV.php;f0;2;1;770;;;;vpos;;v;;r;;d15,2;;b0,0;;m">
 <treenode node="_check_count;PHP:Function Name;F:\GitHUB\Factory-PHP\File\CSV\FileParseCSV.php;f1;711;2;735;;;;vpos;;vspecial;;r&#10;Definition&#10;    _check_count ($char, $array, $depth, $preferred)&#10;&#10;Description&#10;     Check if passed info might be delimiter - only used by find_delimiter()&#10;&#10;Return:&#10;   string used for delimiter selection, or false;;d59,711;;b0,0;;mchar;;parray;;pdepth;;ppreferred;;p">
 </treenode>
@@ -204,15 +208,23 @@
 </treenode>
 <treenode node="AppendValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\AppendValue - Añadir valor al final del array.php;f7;11;1;13;;;;vpos;;v;;r&#10;Definition&#10;    AppendValue( &amp;$arr, $sValue )&#10;&#10;Description&#10;     Añade un valor al final del array&#10;&#10;Parameters:&#10;    array $arr&#10;    string $sValue;;d45,11;;b0,5;;marray $arr;;pstring $sValue;;p">
 </treenode>
+<treenode node="array_orderby;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\NewFile.php;f7;2;1;17;;;;vpos;;v;;r;;d0,3;;b1,0;;m">
+</treenode>
+<treenode node="begin;PHP:Function Name;F:\GitHUB\Factory-PHP\Session\.php;f7;17;1;31;;;;vpos;;v;;r&#10;Definition&#10;    begin()&#10;&#10;Description&#10;     Inicia una sesion;;d0,18;;b0,5;;m">
+</treenode>
 <treenode node="blowfishDecode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;50;1;54;;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Sample.php;f0;50;1;54;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishDecode($key, $encoded)&#10;&#10;Description&#10;     Uses blowfish to decode data assumes data has been base64 encoded with the iv stored as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base decoding off of&#10;    STRING - encoded base64 encoded blowfish encrypted data;;d39,50;;b0,0;;mSTRING;;pSTRING;;p">
 </treenode>
 <treenode node="blowfishEncode;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;38;1;42;;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Sample.php;f0;38;1;42;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishEncode($key, $data)&#10;&#10;Description&#10;     Uses blowfish to encrypt data and base 64 encodes it. It stores the iv as part of the data&#10;&#10;Parameters:&#10;    STRING - key - key to base encoding off of&#10;    STRING - data - string to be encrypted and encoded;;d36,38;;b0,0;;mSTRING;;pSTRING;;p">
 </treenode>
 <treenode node="blowfishGetKey;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt Blowfish\NewFile.php;f0;9;1;30;;F:\GitHUB\Factory-PHP\Crypt\Crypt Blowfish\Sample.php;f0;9;1;30;;;;vpos;;vstring;;r&#10;Definition&#10;    blowfishGetKey($type)&#10;&#10;Description&#10;     retrives the system&apos;s private key;s will build one if not found, but anything encrypted before is gone...&#10;&#10;Parameters:&#10;    string - type&#10;&#10;Return:&#10;   key;;d31,9;;b0,0;;mstring;;p">
 </treenode>
+<treenode node="can_start_session;PHP:Function Name;F:\GitHUB\Factory-PHP\Session\.php;f0;33;1;39;;;;vpos;;v;;r;;d28,33;;b0,0;;m">
+</treenode>
 <treenode node="chmod;PHP:Function Name;F:\GitHUB\Factory-PHP\File\Permisos\Chmod.php;f15;21;9;28;;;;vpos;;v;;r&#10;Definition&#10;    chmod( $sFileName, $nPermisions)&#10;&#10;Description&#10;     Asigna els permisos a l&apos;arxiu 600 Lectura i escritura pel propietari, no acces pels altres 644 Lectura i escritura pel propietari, lectura pels altres 755 Tot pel propietari, lectura i execució pels altres&#10;&#10;Parameters:&#10;    int $nPermisions;;d8,22;;b0,5;;msFileName;;pnPermisions;;p">
 </treenode>
 <treenode node="CloneArray;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\CloneArray.php;f7;8;1;14;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;CloneArray( $arr )&#10;&#10;Description&#10;     Devuelve una array identico&#10;&#10;Parameters:&#10;    array $arr;;d35,8;;b0,5;;marray $arr;;p">
+</treenode>
+<treenode node="code2utf;PHP:Function Name;F:\GitHUB\Factory-PHP\Number\NewFile.php;f0;3;1;10;;;;vpos;;v;;r;;d0,4;;b0,0;;mnum;;p">
 </treenode>
 <treenode node="CombineKeyValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\CombineKeyValue -  Combina valor array 1 como clave del segindo.php;f7;11;1;13;;;;vpos;;varray;;r&#10;Definition&#10;    CombineKeyValue( $arrKeys, $arrValues )&#10;&#10;Description&#10;     Combina el valor del primer array como clave con el valor del segundo array como valor&#10;&#10;Parameters:&#10;    array $arrKeys&#10;    array $arrValues;;d55,11;;b0,5;;marray $arrKeys;;parray $arrValues;;p">
 </treenode>
@@ -264,6 +276,8 @@
 </treenode>
 <treenode node="get_owner_id;PHP:Function Name;F:\GitHUB\Factory-PHP\File\Permisos\GetOwnerID.php;f15;18;9;26;;;;vpos;;vint;;r&#10;Definition&#10;    get_owner_id( $sFileName)&#10;&#10;Description&#10;     Retorna l&apos;identificador del propietari de l&apos;arxiu;;d8,19;;b0,5;;msFileName;;p">
 </treenode>
+<treenode node="get_param_value;PHP:Function Name;F:\GitHUB\Factory-PHP\QueryString\NewFile.php;f7;22;1;34;;;;vpos;;vstring;;r&#10;Definition&#10;    get_param_value( $sQueryString, $sParam, $sDefValue=&apos;&apos; )&#10;&#10;Description&#10;     Devuelve el valor de un parametro&#10;&#10;Parameters:&#10;    string_url $sUrl&#10;    string $sParam&#10;    string $sDefValue;;d0,23;;b0,5;;mstring_url $sUrl;;pstring $sParam;;pstring $sDefValue;;p">
+</treenode>
 <treenode node="get_permissions_str;PHP:Function Name;F:\GitHUB\Factory-PHP\File\Permisos\GetPermisionsAsString.php;f15;17;9;72;;;;vpos;;vstring;;r&#10;Definition&#10;    get_permissions_str($sFileName)&#10;&#10;Description&#10;     Retiorna els permisos str (-rwx) de l&apos;arxiu;;d8,18;;b0,5;;msFileName;;p">
 </treenode>
 <treenode node="get_scanf;PHP:Function Name;F:\GitHUB\Factory-PHP\File\.php;f15;18;9;21;;;;vpos;;vmixed;;r&#10;Definition&#10;    get_scanf( $hFile, $sFormat)&#10;&#10;Description&#10;     Retorna un valor en forma d&apos;un tipus de format&#10;&#10;Parameters:&#10;    string $sFormat;;d8,19;;b0,5;;mhFile;;psFormat;;p">
@@ -272,7 +286,7 @@
 </treenode>
 <treenode node="get_separador;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\GetDateSeparator.php;f7;23;1;43;;;;vpos;;vstring;;r&#10;Definition&#10;    get_separador( $sDate)&#10;&#10;Description&#10;     Devuelve el separador de la fecha&#10;&#10;Parameters:&#10;    string $sDate;;d0,24;;b0,5;;mstring $sDate;;p">
 </treenode>
-<treenode node="get_standarized;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\Standarize.php;f7;20;1;24;;;;vpos;;vstring_date_std;;r&#10;Definition&#10;    get_standarized( $sDateStr, $sSep=&apos;-&apos; )&#10;&#10;Description&#10;     Estandariza los separadores de la fecha al caracter -&#10;&#10;Parameters:&#10;    string $sDate;;d0,21;;b0,5;;msDateStr;;psSep;;p">
+<treenode node="get_standarized;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\Standarize.php;f7;20;1;24;;F:\GitHUB\Factory-PHP\Month\NewFile.php;f15;18;9;21;;;;vpos;;vstring_date_std;;r&#10;Definition&#10;    get_standarized( $sDateStr, $sSep=&apos;-&apos; )&#10;&#10;Description&#10;     Estandariza los separadores de la fecha al caracter -&#10;&#10;Parameters:&#10;    string $sDate;;d0,21;;b0,5;;msDateStr;;psSep;;p">
 </treenode>
 <treenode node="get_time_only;PHP:Function Name;F:\GitHUB\Factory-PHP\DateTime\.php;f7;22;1;26;;;;vpos;;vstring;;r&#10;Definition&#10;    get_time_only( $sDateTimeSTD)&#10;&#10;Description&#10;     Devuelve la hora&#10;&#10;Parameters:&#10;    string $sDateTimeSTD;;d0,23;;b0,5;;mstring $sDateTimeSTD;;p">
 </treenode>
@@ -284,7 +298,13 @@
 </treenode>
 <treenode node="GetKeyByValue;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\GetKeyByValue - Devuelve una key por su valor.php;f7;10;1;21;;;;vpos;;v;;r;;d0,11;;b0,5;;marr;;psValue;;psDefault;;p">
 </treenode>
+<treenode node="getVariableFromQueryString;PHP:Function Name;F:\GitHUB\Factory-PHP\QueryString\NewFile.php;f0;40;1;49;;;;vpos;;v;;r&#10;Definition&#10;    getVariableFromQueryString($variable, $string)&#10;&#10;Description&#10;     This function will allow you to get a variable value from query string;;d55,40;;b0,0;;mvariable;;pstring;;p">
+</treenode>
+<treenode node="HasNewLines;PHP:Function Name;F:\GitHUB\Factory-PHP\String\.php;f0;11;1;14;;;;vpos;;vbool;;r&#10;Definition&#10;    HasNewLines($sText)&#10;&#10;Description&#10;     Devuelve trus si el texto tiene CR o LF&#10;&#10;Parameters:&#10;    string $sText;;d0,12;;b0,0;;mstring $sText;;p">
+</treenode>
 <treenode node="HTNodeCmp;PHP:Function Name;F:\GitHUB\Factory-PHP\Crypt XHaffman\NewFile.php;f0;47;1;49;;F:\GitHUB\Factory-PHP\Crypt\Crypt XHaffman\XHaffman.class.php;f0;47;1;49;;;;vpos;;v;;r;;d41,47;;b0,0;;ma;;pb;;p">
+</treenode>
+<treenode node="importar_archivo;PHP:Function Name;F:\GitHUB\Factory-PHP\ODBC\NewFile.php;f0;35;1;82;;;;vpos;;v;;r;;d0,36;;b0,0;;marchivo;;p">
 </treenode>
 <treenode node="InsertValueToPosition;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\InsertValueToPosition.php;f7;13;1;35;;;;vpos;;varraay;;r&#10;Definition&#10;    InsertValueToPosition( $arr, $nPos, $value)&#10;&#10;Description&#10;     Insertamos una valor en una posición determianda&#10;&#10;Parameters:&#10;    array $arr&#10;    int $nPos&#10;    mixed $value;;d0,14;;b0,5;;marray $arr;;pint $nPos;;pmixed $value;;p">
 </treenode>
@@ -301,6 +321,8 @@
 <treenode node="Merge;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\Merge.php;f7;11;1;13;;;;vpos;;varray;;r&#10;Definition&#10;    Merge( $arr1, $arr2 )&#10;&#10;Description&#10;     Devuelve la concatenación de los dos arrays&#10;&#10;Parameters:&#10;    array $arr1&#10;    array $arr2;;d37,11;;b0,5;;marray $arr1;;parray $arr2;;p">
 </treenode>
 <treenode node="nombreDelDia;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\ObtenerNombreDiaSemana.php;f7;1;1;14;;;;vpos;;v;;r;;d36,1;;b0,5;;mfecha;;p">
+</treenode>
+<treenode node="obtenerValor;PHP:Function Name;F:\GitHUB\Factory-PHP\Post\ObtenerValor.php;f7;19;1;25;;;;vpos;;vmixed;;r&#10;Definition&#10;    obtenerValor( $clave, $valorDefecto=null)&#10;&#10;Description&#10;     Devuelve un valor del POST&#10;&#10;Parameters:&#10;    string $strName&#10;    mixed $sDefValue;;d0,20;;b0,5;;mstring $strName;;pmixed $sDefValue;;p">
 </treenode>
 <treenode node="PopFirst;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\PopFirst.php;f7;10;1;12;;;;vpos;;vstring;;r&#10;Definition&#10;    PopFirst( &amp;$arr)&#10;&#10;Description&#10;     Devuelve y elimina el primer valor del array&#10;&#10;Parameters:&#10;    array $arr;;d32,10;;b0,5;;marray $arr;;p">
 </treenode>
@@ -320,6 +342,8 @@
 </treenode>
 <treenode node="RestarDiasNaturales;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\RestarDiasNaturales.php;f7;21;1;30;;;;vpos;;vstring_date_std;;r&#10;Definition&#10;    RestarDiasNaturales( $fechaSTD, $nDias)&#10;&#10;Description&#10;     Resta un número positiu de dies a una data STD&#10;&#10;Parameters:&#10;    string_date_std $sDateSTD&#10;    int $nDias - &gt; 0;;d0,22;;b0,5;;mstring_date_std $sDateSTD;;pint $nDias;;p">
 </treenode>
+<treenode node="save_object;PHP:Function Name;F:\GitHUB\Factory-PHP\Session\NewFile.php;f15;21;9;32;;;;vpos;;vtrue;;r&#10;Definition&#10;    save_object($Obj,$nombre)&#10;&#10;Description&#10;     Guarda en contenido de un objeto en la sesion de forma encriptada y comprimida&#10;&#10;Parameters:&#10;    OBJECT $Obj&#10;    string $nombre;;d8,22;;b0,5;;mOBJECT $Obj;;pstring $nombre;;p">
+</treenode>
 <treenode node="set_group;PHP:Function Name;F:\GitHUB\Factory-PHP\File\Permisos\SetGroup.php;f15;17;9;23;;;;vpos;;v;;r&#10;Definition&#10;    set_group( $sFileName, $sGroupName )&#10;&#10;Description&#10;     Asigna un grup com a propietari de l&apos;arxiu&#10;&#10;Parameters:&#10;    string $sGroupName;;d8,18;;b0,5;;msFileName;;psGroupName;;p">
 </treenode>
 <treenode node="set_owner;PHP:Function Name;F:\GitHUB\Factory-PHP\File\Permisos\SetOwner.php;f15;17;9;23;;;;vpos;;v;;r&#10;Definition&#10;    set_owner( $sFileName, $sUserName )&#10;&#10;Description&#10;     Asigna un usuari com a propietari de l&apos;arxiu&#10;&#10;Parameters:&#10;    string $sUserName;;d8,18;;b0,5;;msFileName;;psUserName;;p">
@@ -329,8 +353,6 @@
 <treenode node="SortValues;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\SortValues.php;f7;9;1;18;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;SortValues( $arr, $bAscendent=true )&#10;&#10;Description&#10;     Ordena los valores de un array, se mantienen las claves&#10;&#10;Parameters:&#10;    array $arr&#10;    bool $bAscendent;;d53,9;;b0,5;;marray $arr;;pbool $bAscendent;;p">
 </treenode>
 <treenode node="SortValuesNatural;PHP:Function Name;F:\GitHUB\Factory-PHP\Array\SortValuesNatural.php;f7;9;1;19;;;;vpos;;varray;;r&#10;Definition&#10;    &amp;SortValuesNatural( $arr, $bAscendent=true )&#10;&#10;Description&#10;     Ordena un array por los valroes de forma natural, Se pierdenlas claves&#10;&#10;Parameters:&#10;    array $arr&#10;    bool $bAscendent;;d60,9;;b0,5;;marray $arr;;pbool $bAscendent;;p">
-</treenode>
-<treenode node="StackTraceErrorHandler;PHP:Function Name;F:\GitHUB\Factory-PHP\Debug\NewFile.php;f0;2;1;53;;;;vpos;;v;;r;;d81,2;;b0,0;;merrno;;perrstr;;perrfile;;perrline;;perrcontext;;p">
 </treenode>
 <treenode node="sumarDias;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\SumarDiasNaturales.php;f7;13;2;16;;;;vpos;;v;;r;;d1,14;;b0,5;;mfecha;;pdia;;p">
 </treenode>
@@ -350,7 +372,7 @@
 </treenode>
 <treenode node="to_str;PHP:Function Name;F:\GitHUB\Factory-PHP\Get\NewFile.php;f15;23;9;38;;;;vpos;;vstring;;r&#10;Definition&#10;    to_str( $strName, $sDefValue=&apos;&apos; )&#10;&#10;Description&#10;     Devuelve una variable STRING del GET o un valor por defecto si no existe o no es un string, Sustituye los caracteres &quot; por comilla simple&#10;&#10;Parameters:&#10;    string $strName&#10;    string $sDefValue;;d8,24;;b0,5;;mstring $strName;;pstring $sDefValue;;p">
 </treenode>
-<treenode node="to_text;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\ToText.php;f7;20;1;27;;;;vpos;;vstring;;r&#10;Definition&#10;    to_text( $sDateSTD )&#10;&#10;Description&#10;     Retorna el dia en format text (lunes, 23 de enero del 2009)&#10;&#10;Parameters:&#10;    string $sDateSTD - Data en format MYSQL (dd-mm-yyyy);;d0,21;;b0,5;;mstring $sDateSTD;;p">
+<treenode node="to_text;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\ToText.php;f7;20;1;27;;F:\GitHUB\Factory-PHP\Post\NewFile.php;f15;19;9;23;;;;vpos;;vstring;;r&#10;Definition&#10;    to_text( $sDateSTD )&#10;&#10;Description&#10;     Retorna el dia en format text (lunes, 23 de enero del 2009)&#10;&#10;Parameters:&#10;    string $sDateSTD - Data en format MYSQL (dd-mm-yyyy);;d0,21;;b0,5;;mstring $sDateSTD;;p">
 </treenode>
 <treenode node="to_timestamp;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\ToTimeStamp.php;f7;20;1;33;;;;vpos;;vinteger;;r&#10;Definition&#10;    to_timestamp($sDateSTD)&#10;&#10;Description&#10;     Convierte una fecha STD en timestamp, 15-05-2010 =&gt; 1273874400&#10;&#10;Parameters:&#10;    string_date_std $sDateSTD;;d0,21;;b0,5;;mstring_date_std $sDateSTD;;p">
 </treenode>
@@ -358,11 +380,15 @@
 </treenode>
 <treenode node="Today;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\Today.php;f7;21;1;24;;;;vpos;;vstring;;r&#10;Definition&#10;    Today( $sep=&apos;-&apos;)&#10;&#10;Description&#10;     Retorna el dia actual en format STD (dd-mm-yyyy) Es pot indicar un separador diferent;;d0,22;;b0,5;;msep;;p">
 </treenode>
+<treenode node="toIso;PHP:Function Name;F:\GitHUB\Factory-PHP\ODBC\NewFile.php;f0;84;1;88;;;;vpos;;v;;r;;d0,85;;b0,0;;ms;;p">
+</treenode>
 <treenode node="ToMYSQL;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\ToMySQL.php;f7;21;1;33;;;;vpos;;vstring_date_mysql;;r&#10;Definition&#10;    ToMYSQL( $fechaSTD, $sep=&apos;-&apos;)&#10;&#10;Description&#10;     Convierte una feche formato STD (dd-mm-yyyy) a formato MYSQL (yyy-mm-dd)&#10;&#10;Parameters:&#10;    string $sDateSTD&#10;&#10;Return:&#10;   o vacio si no hay fecha;;d0,22;;b0,5;;mfechaSTD;;psep;;p">
 </treenode>
 <treenode node="ToSTD;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\ToStd.php;f7;21;1;31;;;;vpos;;vstring;;r&#10;Definition&#10;    ToSTD( $fechaMYSQL, $sep=&apos;-&apos;)&#10;&#10;Description&#10;     Convierte una feche formato MYSQL (yyy-mm-dd) a formato STD (dd-mm-yyyy)&#10;&#10;Parameters:&#10;    string $sDateMYSQL&#10;&#10;Return:&#10;   o vacio si no hay fecha;;d0,22;;b0,5;;mfechaMYSQL;;psep;;p">
 </treenode>
 <treenode node="UltimoDiaMesActual;PHP:Function Name;F:\GitHUB\Factory-PHP\Date\UltimiDiaMesActual.php;f7;1;4;6;;;;vpos;;v;;r;;d37,1;;b0,5;;m">
+</treenode>
+<treenode node="WordWrapStr;PHP:Function Name;F:\GitHUB\Factory-PHP\String\NewFile.php;f0;18;1;26;;;;vpos;;vstring;;r&#10;Definition&#10;    WordWrapStr( $sText, $nLen, $sBreak=&apos;&apos;)&#10;&#10;Description&#10;     Separa un texto en un número de caracteres pro líniea Por defecto inserta al final de cada linea \n. Ex: &quot;The quick brown fox jumped over the lazy dog.&quot; The quick brown fox&lt;br /&gt; jumped over the lazy&lt;br /&gt; dog.&#10;&#10;Parameters:&#10;    string $sText&#10;    int $nLen&#10;    string $sBreak;;d0,19;;b0,0;;mstring $sText;;pint $nLen;;pstring $sBreak;;p">
 </treenode>
 <treenode node="write;PHP:Function Name;F:\GitHUB\Factory-PHP\File\NewFile.php;f15;41;9;56;;;;vpos;;vint;;r&#10;Definition&#10;    write( $hFile, $str, $nMaxBytes=null )&#10;&#10;Description&#10;     Escru un text a un arxiu, l&apos;arxiu ha d&apos;estar obert en mode escriptura, no tanca l&apos;arxiu&#10;&#10;Parameters:&#10;    string $str - Text a escriure&#10;    int $nMaxBytes - Número màxim de bytes a guardar a l&apos;arxiu&#10;&#10;Return:&#10;   Número de bytes escrits;;d8,42;;b0,5;;mhFile;;pstr;;pnMaxBytes;;p">
 </treenode>
