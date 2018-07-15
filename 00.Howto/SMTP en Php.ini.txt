@@ -17,7 +17,7 @@ auth_username = "dotproject"
 auth_password = "DPatexsa1"
 
 ; For Win32 only.
-sendmail_from = "dotproject@atexsa.es"
+; sendmail_from = "dotproject@atexsa.es"
 
 ; For Unix only.  You may supply arguments as well (default: "sendmail -t -i").
 ;sendmail_path = "C:\apache2triad\mail\bin\sendmail.exe"
